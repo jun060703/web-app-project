@@ -1,0 +1,1 @@
+font-family: '폰트명' !important;
